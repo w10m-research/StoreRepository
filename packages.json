@@ -10,7 +10,23 @@
         "contributors": [
             {
                 "name": "Filiph Sandström",
-                "role": "Lead developer"
+                "role": "Developer"
+            }
+        ],
+        "dependencies": []
+    },
+    {
+        "namespace": "com.gus33000.interoptoolsv1",
+        "title": "Interop Tools (Legacy)",
+        "author": "gus33000",
+        "version": "2.1.21.0",
+        "description": "Interop Tools is an app that allows you to access multiple technical parts of your device. Through additional provider extensions (not included with the app by default), Interop Tools allows you to view and edit things such as Device Registry, Certificates, Applications, Device Info details and much more. Interop Tools will also allow other apps to access this app feature via App Services, it will include a built in permission system to allow the user to take control of which app has access to specific features. Interop Tools without any provider can also serve as a remote tool for another Interop Tools instance on another device, via Project Rome (in a future release) or the Remote Access functionality.".
+        "logo_url": "https://raw.githubusercontent.com/gus33000/InteropTools/InteropTools/UI/InteropTools/Assets/Tiles/generic.png".
+        "size": 132,
+        "contributors": [
+            {
+                "name": "gus33000",
+                "role": "Developer"
             }
         ],
         "dependencies": []
