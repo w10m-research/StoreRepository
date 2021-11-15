@@ -5,7 +5,7 @@
         "author": "Filiph Sandström",
         "version": "1.0.0.0",
         "description": "The best third-party/alternative store for Windows 10 Mobile.",
-        "logo_url": "https://via.placeholder.com/250x250.png",
+        "logo_url": "https://raw.githubusercontent.com/w10m-research/StoreRepository/master/assets/packages/com.filiphsandstrom.store.png",
         "size": 0.0,
         "contributors": [
             {
