@@ -34,5 +34,23 @@
         "dependencies":[
             
         ]
+    },
+    {
+        "namespace":"com.unicorddev.unicord",
+        "title":"Unicord",
+        "author":"UnicordDev",
+        "version":"1.7.6.0",
+        "description":"A free, open source Discord Client for Windows 10 and Windows 10 Mobile, that tries to provide a fast, efficient, native feeling Discord experience, while adding handy extras along the way. Built on DSharpPlus!",
+        "logo_url":"https://raw.githubusercontent.com/UnicordDev/Unicord/master/Unicord.Universal/Assets/Store/Square150x150Logo.scale-400.png",
+        "size":121,
+        "contributors":[
+            {
+                "name":"Thomas May",
+                "role":"Developer"
+            }
+        ],
+        "dependencies":[
+            
+        ]
     }
 ]
