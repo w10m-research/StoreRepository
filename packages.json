@@ -1,0 +1,18 @@
+[
+    {
+        "namespace": "com.filiphsandstrom.store",
+        "title": "Store",
+        "author": "Filiph Sandström",
+        "version": "1.0.0.0",
+        "description": "The best third-party/alternative store for Windows 10 Mobile.",
+        "logo_url": "https://via.placeholder.com/250x250.png",
+        "size": 0.0,
+        "contributors": [
+            {
+                "name": "Filiph Sandström",
+                "role": "Lead developer"
+            }
+        ],
+        "dependencies": []
+    }
+]
