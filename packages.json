@@ -75,13 +75,13 @@
         "binaries": [
             {
                 "version": "1.7.6.0",
-                "url": "https://github.com/gus33000/InteropTools/releases/download/v2107/InteropTools_2.1.21.0_LegacyRelease_Test.zip",
+                "url": "https://github.com/UnicordDev/Unicord/releases/download/v1.7.6-beta/Unicord.Universal.Package_1.7.6.0_Store_Test.7z",
                 "type": "7z"
             }
         ],
         "contributors": [
             {
-                "name": "Thomas May",
+                "name": "Thomas May (@WamWooWam)",
                 "role": "Developer"
             }
         ],
