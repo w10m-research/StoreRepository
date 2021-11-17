@@ -9,7 +9,11 @@
         "size": 0,
         "contributors": [
             {
-                "name": "Filiph Sandström",
+                "name": "Filiph Sandström (@filiphsandstrom)",
+                "role": "Developer"
+            },
+            {
+                "name": "Enrico Angelon (@HerryYT)",
                 "role": "Developer"
             }
         ],
