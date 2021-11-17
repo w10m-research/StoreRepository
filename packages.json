@@ -2,7 +2,7 @@
     {
         "id": "com.filiphsandstrom.store",
         "title": "Store",
-        "author": "Filiph Sandström",
+        "author": "Filiph Sandström & Enrico Angelon",
         "version": "1.0.0.0",
         "description": "The best third-party/alternative store for Windows 10 Mobile.",
         "logo_url": "https://raw.githubusercontent.com/w10m-research/StoreRepository/master/assets/packages/com.filiphsandstrom.store.png",
@@ -17,7 +17,11 @@
                 "role": "Developer"
             }
         ],
-        "dependencies": []
+        "dependencies": [
+            "Microsoft.NET.Native.Framework.1.7",
+            "Microsoft.NET.Native.Runtime.1.7",
+            "Microsoft.VCLibs.ARM.14.00"
+        ]
     },
     {
         "id": "com.filiphsandstrom.rattman",

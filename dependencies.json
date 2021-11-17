@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "Microsoft.NET.Native.Framework.1.7",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.NET.Native.Framework.2.2",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.NET.Native.Runtime.1.7",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.NET.Native.Runtime.2.2",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.Services.Store.Engagement.ARM.10.0",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.VCLibs.ARM.12.00.Universal",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    },
+    {
+        "id": "Microsoft.VCLibs.ARM.14.00",
+        "url": "https://github.com/w10m-research/StoreRepository/raw/master/dependencies/"
+    }
+]
