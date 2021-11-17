@@ -1,0 +1,9 @@
+{
+    "name": "w10m-research Repo",
+    "description": "The official Store repositiory!",
+    "author": "Filiph Sandström",
+    "paths": {
+        "packages": "packages.json",
+        "dependenices": "dependenices.json"
+    }
+}
