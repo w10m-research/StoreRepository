@@ -1,6 +1,6 @@
 [
     {
-        "namespace": "com.filiphsandstrom.store",
+        "id": "com.filiphsandstrom.store",
         "title": "Store",
         "author": "Filiph Sandström",
         "version": "1.0.0.0",
@@ -20,7 +20,7 @@
         "dependencies": []
     },
     {
-        "namespace": "com.filiphsandstrom.rattman",
+        "id": "com.filiphsandstrom.rattman",
         "title": "Browser",
         "author": "Filiph Sandström",
         "version": "1.0.0.0",
@@ -36,35 +36,59 @@
         "dependencies": []
     },
     {
-        "namespace": "com.gus33000.interoptoolsv1",
+        "id": "com.gus33000.interoptoolsv1",
         "title": "Interop Tools (Legacy)",
         "author": "gus33000",
         "version": "2.1.21.0",
         "description": "Interop Tools is an app that allows you to access multiple technical parts of your device. Through additional provider extensions (not included with the app by default), Interop Tools allows you to view and edit things such as Device Registry, Certificates, Applications, Device Info details and much more. Interop Tools will also allow other apps to access this app feature via App Services, it will include a built in permission system to allow the user to take control of which app has access to specific features. Interop Tools without any provider can also serve as a remote tool for another Interop Tools instance on another device, via Project Rome (in a future release) or the Remote Access functionality.",
-        "logo_url": "https://raw.githubusercontent.com/gus33000/InteropTools/InteropTools/UI/InteropTools/Assets/Tiles/generic.png",
+        "logo_url": "https://raw.githubusercontent.com/gus33000/InteropTools/InteropToolsV1_updates/UI/InteropTools/Assets/Tiles/App/Square310x310Logo.scale-400.png",
         "size": 132,
+        "binaries": [
+            {
+                "version": "2.1.21.0",
+                "url": "https://github.com/gus33000/InteropTools/releases/download/v2107/InteropTools_2.1.21.0_LegacyRelease_Test.zip"
+                "type": "zip"
+            }
+        ],
         "contributors": [
             {
                 "name": "gus33000",
                 "role": "Developer"
             }
         ],
-        "dependencies": []
+        "dependencies": [
+            "Microsoft.NET.Native.Framework.1.7",
+            "Microsoft.NET.Native.Runtime.1.7",
+            "Microsoft.Services.Store.Engagement.ARM.10.0",
+            "Microsoft.VCLibs.ARM.12.00.Universal",
+            "Microsoft.VCLibs.ARM.14.00"
+        ]
     },
     {
-        "namespace": "com.unicorddev.unicord",
+        "id": "com.unicorddev.unicord",
         "title": "Unicord",
         "author": "UnicordDev",
         "version": "1.7.6.0",
         "description": "A free, open source Discord Client for Windows 10 and Windows 10 Mobile, that tries to provide a fast, efficient, native feeling Discord experience, while adding handy extras along the way. Built on DSharpPlus!",
         "logo_url": "https://raw.githubusercontent.com/UnicordDev/Unicord/master/Unicord.Universal/Assets/Store/Square150x150Logo.scale-400.png",
         "size": 121,
+        "binaries": [
+            {
+                "version": "1.7.6.0,
+                "url": "https://github.com/gus33000/InteropTools/releases/download/v2107/InteropTools_2.1.21.0_LegacyRelease_Test.zip"
+                "type": "7z"
+            }
+        ],
         "contributors": [
             {
                 "name": "Thomas May",
                 "role": "Developer"
             }
         ],
-        "dependencies": []
+        "dependencies": [
+            "Microsoft.NET.Native.Framework.2.2",
+            "Microsoft.NET.Native.Runtime.2.2",
+            "Microsoft.VCLibs.ARM.14.00"
+        ]
     }
 ]
