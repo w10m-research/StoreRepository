@@ -10,7 +10,7 @@
         "contributors": [
             {
                 "name": "Filiph Sandström (@filiphsandstrom)",
-                "role": "Developer"
+                "role": "Primary Developer"
             },
             {
                 "name": "Enrico Angelon (@HerryYT)",
@@ -94,5 +94,45 @@
             "Microsoft.NET.Native.Runtime.2.2",
             "Microsoft.VCLibs.ARM.14.00"
         ]
+    },
+    {
+        "id": "com.unigramdev.unigram",
+        "title": "Unigram",
+        "author": "UnicordDev",
+        "version": "20.5.4950.0",
+        "description": "The Telegram client optimised for the Windows 10 platform.",
+        "logo_url": "https://raw.githubusercontent.com/UnigramDev/Unigram/develop/Unigram/Unigram/Assets/Logos/StoreLogo.scale-200.png",
+        "size": 0,
+        "contributors": [
+            {
+                "name": "Fela Ameghino (@FrayxRulez)",
+                "role": "Developer"
+            },
+            {
+                "name": "@hihain",
+                "role": "Mobile Maintainer"
+            }
+        ],
+        "dependencies": []
+    },
+    {
+        "id": "com.slimsocialproject.slimsocial",
+        "title": "SlimSocial",
+        "author": "SlimSocialProject",
+        "version": "2.0.1.0",
+        "description": "Light version of Facebook. Light not only in weight but also in the use.",
+        "logo_url": "https://raw.githubusercontent.com/rignaneseleo/SlimSocial-for-Facebook-UWP/master/SlimSocial%20for%20Facebook/Assets/Square71x71Logo.scale-400.png",
+        "size": 0,
+        "contributors": [
+            {
+                "name": "Leo (@rignaneseleo)",
+                "role": "Developer"
+            },
+            {
+                "name": "Mike Ralphson (@MikeRalphson)",
+                "role": "Developer"
+            }
+        ],
+        "dependencies": []
     }
 ]
